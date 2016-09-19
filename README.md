@@ -15,3 +15,6 @@ All projects were group projects, hence 'we' insteaf of 'I'.
 
 ## Max Subset (MSS)
 The goal of this project was to find the maximum subset of a given set of positive and negative integers. The program can be built and run with ``make prog`` and ``prog [input size in thousands] [input_file] [algorithm to use (1-4)] [debug flag, optional]``. The algorithms from 1 to 4 are enumeration, better enumeration, divide and conquer, and linear time. I have included two test filesm ``testfile1k.txt`` and ``testfile70k.txt``. Each file contains 10 sets of integers, each of size 1,000 and 70,000 respectively.
+
+## Coins
+The goal of this assignment was to calculate the minimum number of coins needed to make a certain value. The denominations were give, and the value to be met, and we needed to build a program that would return the count of the least amount of coins needed. See the README inside the folder for more details.
